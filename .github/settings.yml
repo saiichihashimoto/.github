@@ -11,6 +11,7 @@ branches:
   - name: master
     protection:
       required_pull_request_reviews: null
-      required_status_checks: null
+      required_status_checks:
+        strict: true
       enforce_admins: true
       restrictions: null
