@@ -1,0 +1,4 @@
+requiredLabels:
+  - greenkeeper
+reportStatus: true
+updateBranch: true
