@@ -11,10 +11,6 @@ branches:
   - name: master
     protection:
       required_pull_request_reviews: null
-      required_status_checks:
-        strict: true
-        contexts:
-          - Semantic Pull Request
-          - continuous-integration/travis-ci
-          - coverage/coveralls
+      required_status_checks: null
       enforce_admins: true
+      restrictions: null
