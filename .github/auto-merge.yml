@@ -1,4 +1,7 @@
-requiredLabels:
-  - greenkeeper
 reportStatus: true
 updateBranch: true
+rules:
+  - requiredLabel:
+      - greenkeeper
+  - requiredLabel:
+      - auto-merge
