@@ -7,6 +7,10 @@ repository:
   allow_squash_merge: false
   allow_merge_commit: true
   allow_rebase_merge: false
+labels:
+  - name: auto-merge
+    color: E2BD73
+    description: Triggers probot-auto-merge to merge PRs https://github.com/bobvanderlinden/probot-auto-merge#probot-auto-merge
 branches:
   - name: master
     protection:
