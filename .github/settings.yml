@@ -7,14 +7,6 @@ repository:
   allow_squash_merge: false
   allow_merge_commit: true
   allow_rebase_merge: false
-labels:
-  - name: auto-merge
-    color: E2BD73
-    description: Triggers probot-auto-merge to merge PRs https://github.com/bobvanderlinden/probot-auto-merge#probot-auto-merge
-  - name: greenkeeper
-    color: 00C775
-  - name: todo :spiral_notepad:
-    color: 00B0D8
 branches:
   - name: master
     protection:
