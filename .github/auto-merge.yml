@@ -1,7 +1,7 @@
 reportStatus: true
 updateBranch: true
 rules:
-  - requiredLabel:
+  - requiredLabels:
       - greenkeeper
-  - requiredLabel:
+  - requiredLabels:
       - auto-merge
