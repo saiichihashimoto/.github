@@ -1,4 +1,4 @@
 reportStatus: true
 updateBranch: true
 rules:
-  - requiredTitleRegex: ^\\[Snyk\\]
+  - requiredTitleRegex: Snyk
