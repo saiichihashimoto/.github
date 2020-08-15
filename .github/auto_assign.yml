@@ -1,4 +1,4 @@
-addReviewers: false
-addAssignees: true
-assignees:
+addReviewers: true
+addAssignees: author
+reviewers:
   - saiichihashimoto
