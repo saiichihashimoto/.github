@@ -1,4 +1,5 @@
 reportStatus: true
 updateBranch: true
 rules:
-  - requiredTitleRegex: Snyk
+  - requiredLabels:
+    - dependencies
