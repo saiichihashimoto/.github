@@ -1,7 +1,11 @@
 todo:
+  autoAssign: false
   keyword:
-    - @todo
-    - TODO
-    - @fixme
-    - FIXME
-  label: false
+    - '@todo'
+    - 'TODO'
+    - 'eslint-disable-next-line'
+    - 'eslint-disable-line'
+    - 'eslint-disable'
+    - 'stylelint-disable-next-line'
+    - 'stylelint-disable-line'
+    - 'stylelint-disable'

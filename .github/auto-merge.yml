@@ -1,5 +1,0 @@
-reportStatus: true
-updateBranch: true
-rules:
-  - requiredLabels:
-    - dependencies
