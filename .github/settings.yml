@@ -1,4 +1,5 @@
 repository:
+  description: Default Description set by probot/settings
   private: false
   has_issues: true
   has_projects: false
