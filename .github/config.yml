@@ -1,11 +1,8 @@
 todo:
   autoAssign: false
   keyword:
-    - '@todo'
     - 'TODO'
-    - 'eslint-disable-next-line'
-    - 'eslint-disable-line'
-    - 'eslint-disable'
-    - 'stylelint-disable-next-line'
-    - 'stylelint-disable-line'
-    - 'stylelint-disable'
+    - 'FIXME'
+    - 'HACK'
+  bodyKeyword:
+    - 'BODY'
